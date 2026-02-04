@@ -16,10 +16,12 @@
     "launcher_download_url": "http://travessuraot.servegame.com/travessuraotlauncher.exe",
     
     "protected_folders": [
-        "minimap",
-        "conf", 
+        "minimap", 
         "characterdata"
     ],
+  "protected_files": [
+    "conf/clientoptions.json"
+  ],
     
     "enable_minimap_downloads": true,
     "custom_minimaps": {},
