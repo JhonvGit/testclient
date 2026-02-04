@@ -1,0 +1,45 @@
+{
+    "server_name": "Travessura OT",
+    "current_version": "1.0.0",
+    "description": "Teste server online",
+    
+    "github_username": "JhonvGit",
+    "github_repository": "TesteServer", 
+    "client_zip_filename": "tibia-client.zip",
+    "auto_install_updates": true,
+    
+    "enable_auto_update": true,
+    "auto_install_launcher_updates": true,
+    "launcher_github_username": "JhonvGit",
+    "launcher_github_repository": "tibialauncher",
+    "current_launcher_version": "1.0.0",
+    "launcher_download_url": "http://travessuraot.servegame.com/travessuraotlauncher.exe",
+    
+    "protected_folders": [
+        "minimap",
+        "conf", 
+        "characterdata"
+    ],
+    
+    "enable_minimap_downloads": true,
+    "custom_minimaps": {},
+
+    "highscores_url": "http://travessuraot.servegame.com/?highscores/experience",
+    "highscores_json": null,
+    "highscores_selectors": {
+        "container_selector": "table.TableContent",
+        "row_selector": "tbody tr:not(.LabelH)",
+        "name_selector": "td:nth-child(3) a span, td:nth-child(3) a, td:nth-child(3)",
+        "level_selector": "td:nth-last-child(2)",
+        "outfit_selector": "td:nth-child(2) img",
+        "outfit_attr": "src"
+    },
+    
+    "check_for_updates_on_startup": true,
+    "show_changelog": true,
+    "backup_before_update": true,
+    "version": "1.0",
+    "download_link": "https://github.com/JhonvGit/TesteServer/releases/download/v1.0.0/tibia-client.zip",
+    "release_tag": "1.0",
+    "zip_file": "tibia-client.zip"
+}
