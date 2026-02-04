@@ -38,8 +38,8 @@
     "check_for_updates_on_startup": true,
     "show_changelog": true,
     "backup_before_update": true,
-    "version": "1.0",
+    "version": "1.0.0",
     "download_link": "https://github.com/JhonvGit/TesteServer/releases/download/v1.0.0/tibia-client.zip",
-    "release_tag": "1.0",
+    "release_tag": "1.0.0",
     "zip_file": "tibia-client.zip"
 }
