@@ -1,6 +1,6 @@
 {
     "server_name": "Travessura OT",
-    "current_version": "1.0.1",
+    "current_version": "1.0.2",
     "description": "Teste server online",
     
     "github_username": "JhonvGit",
@@ -40,8 +40,8 @@
     "check_for_updates_on_startup": true,
     "show_changelog": true,
     "backup_before_update": true,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "download_link": "https://github.com/JhonvGit/TesteServer/releases/download/1.0.0/tibia-client.zip",
-    "release_tag": "1.0.1",
+    "release_tag": "1.0.2",
     "zip_file": "tibia-client.zip"
 }
