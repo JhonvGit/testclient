@@ -1,6 +1,6 @@
 {
     "server_name": "Travessura OT",
-    "current_version": "1.0.8",
+    "current_version": "1.0.9",
     "description": "Teste server online",
     
     "github_username": "JhonvGit",
@@ -13,7 +13,7 @@
     "launcher_github_username": "JhonvGit",
     "launcher_github_repository": "tibialauncher",
     "current_launcher_version": "1.0.0",
-    "launcher_download_url": "http://travessuraot.servegame.com/travessuraotlauncher.exe",
+    "launcher_download_url": "http://travessuraot.com/travessuraotlauncher.exe",
     
     "protected_folders": [
         "minimap", 
@@ -40,8 +40,8 @@
     "check_for_updates_on_startup": true,
     "show_changelog": true,
     "backup_before_update": true,
-    "version": "1.0.8",
+    "version": "1.0.9",
     "download_link": "https://github.com/JhonvGit/TesteServer/releases/download/1.0.0/tibia-client.zip",
-    "release_tag": "1.0.8",
+    "release_tag": "1.0.9",
     "zip_file": "tibia-client.zip"
 }
